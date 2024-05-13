@@ -14,3 +14,5 @@ uuid
 vim
 wamerican-insane
 zip
+rclone
+tor
