@@ -1,7 +1,7 @@
 # MyBinder.demo
 A demo for using MyBinder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rwcitek/MyBinder.demo/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jnmm05-dev/chrometor/HEAD)
 Launch this project in MyBinder.
 
 This project runs a default Binder instance with Bash and a few other features, using [Zero-to-Binder](https://the-turing-way.netlify.app/communication/binder/zero-to-binder.html) as a guide.
