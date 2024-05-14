@@ -1,5 +1,5 @@
 sudo
-snap
+snapd
 flatpak
 ruby
 tree
