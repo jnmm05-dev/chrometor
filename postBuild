@@ -1,3 +1,4 @@
 cat << 'eof' >> ~/.bash_aliases
 alias ls='ls -1F --color'
+flatpak install flathub org.mozilla.firefox
 eof
