@@ -1,4 +1,5 @@
 cat << 'eof' >> ~/.bash_aliases
 alias ls='ls -1F --color'
+flatpak remote-add --user --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 flatpak install flathub org.mozilla.firefox
 eof
