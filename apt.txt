@@ -1,4 +1,6 @@
 sudo
+snap
+flatpak
 ruby
 tree
 less
